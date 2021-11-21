@@ -1,23 +1,12 @@
-##CA675_Group_9_Assignment_2
+
 
 #Analysis of Google-Play store apps
-
-##Group Information
-   Name                      Student ID
-1. Shradha Shivani -         21261104
-2. Atif Shahab -             21260968
-3. Snehasis Nayak -          21260962
-4. Yamini Karpe -            21261888
-5. Harsha Kumble -           21262485
-6. Ankit Gusain -            21261629
-
 
 ```
 Source - Kaggle
 https://www.kaggle.com/gauthamp10/google-playstore-apps
 
-GitLab Repo
-https://gitlab.computing.dcu.ie/shivans2/ca675_group9_assignment2
+
 
 Data Visualization
 https://datastudio.google.com/u/0/reporting/b9e5289e-d7ae-41ec-8320-bff973fe68d6/page/c7efC
